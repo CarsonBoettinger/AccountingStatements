@@ -9,7 +9,7 @@ Comprehensive Financial Data: Access detailed financial statements including bal
 
 Real-Time Updates: Ensure you are getting the most up-to-date financial information available.
 
-Excel Formatting: Receive data in a structured JSON format for easy integration with your applications.
+Excel Formatting: Receive data in a structured format for easy integration with your modeling.
 
 Error Handling: Clear and concise error messages for invalid tickers or data retrieval issues.
 
